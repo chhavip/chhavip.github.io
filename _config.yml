@@ -14,13 +14,13 @@ url:              http://chhavip.github.io/
 baseurl:          http://chhavip.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Chhavi P. GUpta'
+  url:            https://twitter.com/chhavip04
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/chhavip

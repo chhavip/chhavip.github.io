@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            chhavip
 tagline:          'Developer, Coder, Teacher, Student and everything in between'
-description:      'Developer, Coder, a Student, a Teacher and everything in between Explore <a href="https://twitter.com/chhavip04" target="_blank">@chhavip04</a>.'
+description:      'Developer, Coder, A Student, A Teacher and everything in between Explore <a href="https://twitter.com/chhavip04" target="_blank">@chhavip04</a>.'
 url:              http://chhavip.github.io/
 baseurl:          http://chhavip.github.io/
 
